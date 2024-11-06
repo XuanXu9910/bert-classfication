@@ -1,3 +1,5 @@
 data/
 model/
 result_img/
+*.tsv
+*.csv
